@@ -51,6 +51,35 @@
                 it.
             </p>
         </div>
+        
+        <form action="">
+            <div>
+                <LABel>Name</LABel>
+                <input type="text" required>
+            </div>
+
+            <div>
+                <LABel>Phone</LABel>
+                <input type="text" required>
+            </div>
+
+            <div>
+                <LABel>Email</LABel>
+                <input type="text" required>
+            </div>
+
+            <div>
+                <LABel>Date</LABel>
+                <input type="text" required>
+            </div>
+
+            <div>
+                <LABel>Sex</LABel>
+                <input type="text" required>
+            </div>
+            <button>Submit</button>
+
+        </form>
     </body>
 </main>
 
